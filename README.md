@@ -1,0 +1,2 @@
+# compoundtriggerdecisionsFR
+French version of compoundtriggerdecisions
