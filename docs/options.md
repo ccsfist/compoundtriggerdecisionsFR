@@ -9,6 +9,10 @@
 
 Le tableau présente les options sous forme de colonnes, comparées aux crises humanitaires et aux années de plus faible pluviométrie. 
 
+L’analyse présentée dans ce tableau repose désormais sur une période historique de 25 ans, afin d’évaluer plus précisément la fréquence des activations.
+
+De plus, conformément aux échanges avec l’ONM, le mois de juin a été retiré des mois pouvant déclencher, car une activation à cette date serait trop tardive pour permettre une action anticipatoire utile.
+
 Deux approches sont présentées : 
 
 	- Une approche consiste à permettre à n’importe quel mois de déclencher, puis à réduire la fréquence pour tous les mois jusqu’à atteindre environ 30 % par an. 
