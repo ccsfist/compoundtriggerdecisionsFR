@@ -13,13 +13,13 @@ L’analyse présentée dans ce tableau repose désormais sur une période histo
 
 De plus, conformément aux échanges avec l’ONM, le mois de juin a été retiré des mois pouvant déclencher, car une activation à cette date serait trop tardive pour permettre une action anticipatoire utile.
 
-Deux approches sont présentées : 
-	- Une approche consiste à permettre à n’importe quel mois de déclencher, puis à réduire la fréquence pour tous les mois jusqu’à atteindre environ 30 % par an. 
+Deux approches sont présentées :   
+	- Une approche consiste à permettre à n’importe quel mois de déclencher, puis à réduire la fréquence pour tous les mois jusqu’à atteindre environ 30 % par an.   
 	- L’autre approche consiste à exiger qu’au moins trois mois déclenchent parmi les cinq mois de prévisions. 
 
-Points à garder en tête : 
-	- Chaque protocole combiné est réglé à environ 30 % par an. 
-	- Les différents protocoles peuvent déclencher dans des années différentes, ce qui entraîne des niveaux de précision différents. 
+Points à garder en tête :   
+	- Chaque protocole combiné est réglé à environ 30 % par an.  
+	- Les différents protocoles peuvent déclencher dans des années différentes, ce qui entraîne des niveaux de précision différents.  
 	- Les différents protocoles peuvent déclencher plus tôt ou plus tard dans l’année, donnant des délais de préparation différents. 
 
 ## Facteurs importants à considérer lors du choix d’un protocole
